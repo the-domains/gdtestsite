@@ -4,8 +4,15 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 23:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2015 23:31:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Want to learn more about AZ Photography and what we can do for you? Have a question or comment? We are waiting to hear from you.</p></article>]]></description>
+            <link>http://www.group5ae.com/contact.html</link>
+            <guid isPermaLink="false">81a48804-27fa-4ce2-ab72-cae05faf91d1</guid>
+            <pubDate>Sun, 22 Nov 2015 23:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portfolio]]></title>
             <description><![CDATA[<article><h1>Portfolio</h1><img src="http://nebula.wsimg.com/eaf66e4651fd59991b8779c289d1ecda?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1"></article>]]></description>
