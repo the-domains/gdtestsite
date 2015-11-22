@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[gdtestsite]]></title>
         <description><![CDATA[gdtestsite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 23:26:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 23:26:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<article><h1>Portfolio</h1><img src="http://nebula.wsimg.com/eaf66e4651fd59991b8779c289d1ecda?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1"></article>]]></description>
+            <link>http://www.group5ae.com/portfolio.html</link>
+            <guid isPermaLink="false">ab9085da-3c49-432f-9daa-28cba9683d90</guid>
+            <pubDate>Sun, 22 Nov 2015 23:26:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Photography is not something I produce, it's something that produces a change in me and my clients. The camera lens captures what the human eye leaves behind. I consider myself nothing less than a chronicler of the human condition, for better or worse. When you see my photos, I think you'll agree.</p></article>]]></description>
