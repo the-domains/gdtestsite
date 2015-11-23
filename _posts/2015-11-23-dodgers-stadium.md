@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-23T01:12:54.108Z'
+datePublished: '2015-11-23T01:15:05.973Z'
 publisher:
   domain: ''
   name: ''
 title: Dodgers stadium
-dateModified: '2015-11-23T01:12:29.485Z'
+dateModified: '2015-11-23T01:12:54.108Z'
 sourcePath: _posts/2015-11-23-dodgers-stadium.md
 published: true
 inFeed: true
