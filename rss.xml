@@ -4,7 +4,7 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 00:06:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gdtestsite/8a48a14e-1cb9-46ab-93ce-453d46b8d8cc/index.html</link>
             <guid isPermaLink="false">8a48a14e-1cb9-46ab-93ce-453d46b8d8cc</guid>
             <pubDate>Sun, 22 Nov 2015 23:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["The Grid(io)" VS WordPress | Mint Plugins]]></title>
+            <description><![CDATA[<article><h1>"The Grid(io)" VS WordPress | Mint Plugins</h1><p>There's a new kid on the web-design block calling itself " The Grid(io)" - and it has a lot of hype. It promises to build your website for you using "Artificial Intelligence" and "Robots" - and that it will save you hours of time by not needing to worry about the nitty-gritty parts of your website.</p><img src="https://d1jjahow6nk0ea.cloudfront.net/wp-content/uploads/2015/03/not-the-selling-points1.jpg"></article>]]></description>
+            <link>https://mintplugins.com/the-grid-vs-wordpress/</link>
+            <guid isPermaLink="false">e3aaba1d-e959-4e82-ac09-78944aa6e027</guid>
+            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.group5ae.com/contact.html</link>
             <guid isPermaLink="false">81a48804-27fa-4ce2-ab72-cae05faf91d1</guid>
             <pubDate>Sun, 22 Nov 2015 23:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<article><h1>Portfolio</h1><img src="http://nebula.wsimg.com/eaf66e4651fd59991b8779c289d1ecda?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1"></article>]]></description>
-            <link>http://www.group5ae.com/portfolio.html</link>
-            <guid isPermaLink="false">ab9085da-3c49-432f-9daa-28cba9683d90</guid>
-            <pubDate>Sun, 22 Nov 2015 23:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
