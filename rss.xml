@@ -4,7 +4,7 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 00:06:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gdtestsite/8a48a14e-1cb9-46ab-93ce-453d46b8d8cc/index.html</link>
             <guid isPermaLink="false">8a48a14e-1cb9-46ab-93ce-453d46b8d8cc</guid>
             <pubDate>Sun, 22 Nov 2015 23:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid.io : Beware!]]></title>
+            <description><![CDATA[<article><h1>The Grid.io : Beware!</h1><p>Just an interesting article about The Grid.io that I think would make an interesting read: https://www.benhorrix.com/Read/the-grid-is-a-scam?ref=webdesignernews.com Pretty wordy but entertaining [smiley]</p><img src="https://www.gravatar.com/avatar/c198605581434ac4ef852e88f70369ed?s=128&d=identicon&r=PG"></article>]]></description>
+            <link>http://forum.webflow.com/t/the-grid-io-beware/18100</link>
+            <guid isPermaLink="false">e163d621-1c64-45ff-afa3-60a8760ac246</guid>
+            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI websites that design themselves? Why I'm skeptical of The Grid]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://nebula.wsimg.com/639371f78b3b4434e25b868b8e9835f1?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1">]]></description>
             <link>https://thegrid.ai/gdtestsite/b64eaf84-bfc1-46c0-a708-541549e46baa/index.html</link>
             <guid isPermaLink="false">b64eaf84-bfc1-46c0-a708-541549e46baa</guid>
-            <pubDate>Sun, 22 Nov 2015 23:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://nebula.wsimg.com/1ec4c1b0ddc97284818403458db21a7c?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1">]]></description>
-            <link>https://thegrid.ai/gdtestsite/63576084-cc18-43c0-a0b3-c14c188082e7/index.html</link>
-            <guid isPermaLink="false">63576084-cc18-43c0-a0b3-c14c188082e7</guid>
             <pubDate>Sun, 22 Nov 2015 23:33:38 GMT</pubDate>
         </item>
     </channel>
