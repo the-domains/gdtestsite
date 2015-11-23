@@ -4,7 +4,7 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 01:13:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gdtestsite/8a48a14e-1cb9-46ab-93ce-453d46b8d8cc/index.html</link>
             <guid isPermaLink="false">8a48a14e-1cb9-46ab-93ce-453d46b8d8cc</guid>
             <pubDate>Sun, 22 Nov 2015 23:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dodgers stadium]]></title>
+            <description><![CDATA[<article><h1>Dodgers stadium</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f65bac00-6a85-49f1-b3c4-b1df5717cb42.png"></article>]]></description>
+            <link>https://thegrid.ai/gdtestsite/dodgers-stadium/index.html</link>
+            <guid isPermaLink="false">f2723b82-61e2-4986-bab4-703982522195</guid>
+            <pubDate>Mon, 23 Nov 2015 01:12:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AME Cloud Ventures leads Series A round for The Grid]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gdtestsite/killing/index.html</link>
             <guid isPermaLink="false">b5b55ae3-c58f-424c-9162-03eaf0c04fd1</guid>
             <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid.io builds incredibly slow websites]]></title>
-            <description><![CDATA[<article><h1>The Grid.io builds incredibly slow websites</h1><p>If you're a web designer who uses Facebook, you've probably seen an ad for TheGrid.io, the latest website automation service to hit the scene. The Grid promises total website automation with sleek and modern design. According to sites like TechCrunch, The Grid "uses artificial intelligence to design your websites for you," which sounds cooler than it probably is.</p><img src="https://cdn-images-1.medium.com/max/2000/1*tTp1mjqgI5Xd5ObM9tuHsg.png"></article>]]></description>
-            <link>https://medium.com/@austinwulf/the-grid-io-builds-incredibly-slow-websites-24ca1980c8f2#.sdehg63bq</link>
-            <guid isPermaLink="false">8bcd1411-1401-44fd-a12d-2868e8e99d7d</guid>
-            <pubDate>Mon, 23 Nov 2015 00:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
