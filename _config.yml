@@ -21,7 +21,7 @@ color:
     - '#212020'
     - '#f08222'
     - '#fcd207'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
