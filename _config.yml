@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: gdtestsite
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#fcd207'
   rhythmicContrast: 1
 typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.4838883
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: gdtestsite
+cta:
+  bucket: null
+  version: null
+  domain: null
