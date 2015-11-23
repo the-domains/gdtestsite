@@ -4,7 +4,7 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 00:05:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,27 +12,6 @@
             <link>https://thegrid.ai/gdtestsite/8a48a14e-1cb9-46ab-93ce-453d46b8d8cc/index.html</link>
             <guid isPermaLink="false">8a48a14e-1cb9-46ab-93ce-453d46b8d8cc</guid>
             <pubDate>Sun, 22 Nov 2015 23:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid.io : Beware!]]></title>
-            <description><![CDATA[<article><h1>The Grid.io : Beware!</h1><p>Just an interesting article about The Grid.io that I think would make an interesting read: https://www.benhorrix.com/Read/the-grid-is-a-scam?ref=webdesignernews.com Pretty wordy but entertaining [smiley]</p><img src="https://www.gravatar.com/avatar/c198605581434ac4ef852e88f70369ed?s=128&d=identicon&r=PG"></article>]]></description>
-            <link>http://forum.webflow.com/t/the-grid-io-beware/18100</link>
-            <guid isPermaLink="false">e163d621-1c64-45ff-afa3-60a8760ac246</guid>
-            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI websites that design themselves? Why I'm skeptical of The Grid]]></title>
-            <description><![CDATA[<article><h1>AI websites that design themselves? Why I'm skeptical of The Grid</h1><p>If you haven't heard of The Grid, it's a website builder that claims to have created "AI websites that design themselves." It's been generating big buzz- including support from Jason Fried and coverage by Wired. Curiously, The Grid hasn't launched yet and their homepage shows no demo or screenshots.</p><img src="http://s3.amazonaws.com/sitebuilderreport-assets/blogs/featured_images/000/000/044/original/thegrid.jpg?1415311472"></article>]]></description>
-            <link>http://www.sitebuilderreport.com/blog/why-im-skeptical-of-the-grid</link>
-            <guid isPermaLink="false">8929e70b-1554-46c5-95b1-d8289f767b84</guid>
-            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["The Grid(io)" VS WordPress | Mint Plugins]]></title>
-            <description><![CDATA[<article><h1>"The Grid(io)" VS WordPress | Mint Plugins</h1><p>There's a new kid on the web-design block calling itself " The Grid(io)" - and it has a lot of hype. It promises to build your website for you using "Artificial Intelligence" and "Robots" - and that it will save you hours of time by not needing to worry about the nitty-gritty parts of your website.</p><img src="https://d1jjahow6nk0ea.cloudfront.net/wp-content/uploads/2015/03/not-the-selling-points1.jpg"></article>]]></description>
-            <link>https://mintplugins.com/the-grid-vs-wordpress/</link>
-            <guid isPermaLink="false">e3aaba1d-e959-4e82-ac09-78944aa6e027</guid>
-            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +54,27 @@
             <link>https://thegrid.ai/gdtestsite/b64eaf84-bfc1-46c0-a708-541549e46baa/index.html</link>
             <guid isPermaLink="false">b64eaf84-bfc1-46c0-a708-541549e46baa</guid>
             <pubDate>Sun, 22 Nov 2015 23:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://nebula.wsimg.com/1ec4c1b0ddc97284818403458db21a7c?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1">]]></description>
+            <link>https://thegrid.ai/gdtestsite/63576084-cc18-43c0-a0b3-c14c188082e7/index.html</link>
+            <guid isPermaLink="false">63576084-cc18-43c0-a0b3-c14c188082e7</guid>
+            <pubDate>Sun, 22 Nov 2015 23:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Want to learn more about AZ Photography and what we can do for you? Have a question or comment? We are waiting to hear from you.</p></article>]]></description>
+            <link>http://www.group5ae.com/contact.html</link>
+            <guid isPermaLink="false">81a48804-27fa-4ce2-ab72-cae05faf91d1</guid>
+            <pubDate>Sun, 22 Nov 2015 23:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<article><h1>Portfolio</h1><img src="http://nebula.wsimg.com/eaf66e4651fd59991b8779c289d1ecda?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1"></article>]]></description>
+            <link>http://www.group5ae.com/portfolio.html</link>
+            <guid isPermaLink="false">ab9085da-3c49-432f-9daa-28cba9683d90</guid>
+            <pubDate>Sun, 22 Nov 2015 23:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
