@@ -4,7 +4,7 @@
         <description><![CDATA[gdtestsite]]></description>
         <link>https://thegrid.ai/gdtestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 01:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 01:15:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gdtestsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gdtestsite/8a48a14e-1cb9-46ab-93ce-453d46b8d8cc/index.html</link>
             <guid isPermaLink="false">8a48a14e-1cb9-46ab-93ce-453d46b8d8cc</guid>
             <pubDate>Sun, 22 Nov 2015 23:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dodgers news]]></title>
+            <description><![CDATA[<article><h1>Dodgers news</h1><p>Opening Day 2016 will feature a combined seven national ESPN telecasts -- three on Sunday, April 3, and four on Monday, April 4 -- Commissioner Rob Manfred announced on Thursday at the end of Major League Baseball's quarterly Owners Meetings in Dallas.</p><img src="http://m.mlb.com/assets/images/6/3/0/157684630/cuts/openingday_2_1280_s86852dz_aid9ywi6.jpg"></article>]]></description>
+            <link>http://m.dodgers.mlb.com/news/article/157684628/3-mlb-opening-day-games-on-first-sunday</link>
+            <guid isPermaLink="false">32d020c0-640d-4880-8f21-a4def91a9444</guid>
+            <pubDate>Mon, 23 Nov 2015 01:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dodgers stadium]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>"The Grid(io)" VS WordPress | Mint Plugins</h1><p>There's a new kid on the web-design block calling itself " The Grid(io)" - and it has a lot of hype. It promises to build your website for you using "Artificial Intelligence" and "Robots" - and that it will save you hours of time by not needing to worry about the nitty-gritty parts of your website.</p><img src="https://d1jjahow6nk0ea.cloudfront.net/wp-content/uploads/2015/03/not-the-selling-points1.jpg"></article>]]></description>
             <link>https://mintplugins.com/the-grid-vs-wordpress/</link>
             <guid isPermaLink="false">e3aaba1d-e959-4e82-ac09-78944aa6e027</guid>
-            <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Killing</p>]]></description>
-            <link>https://thegrid.ai/gdtestsite/killing/index.html</link>
-            <guid isPermaLink="false">b5b55ae3-c58f-424c-9162-03eaf0c04fd1</guid>
             <pubDate>Mon, 23 Nov 2015 00:05:00 GMT</pubDate>
         </item>
     </channel>
