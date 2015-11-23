@@ -1,7 +1,7 @@
 name: gdtestsite
 favicon: null
 layout_spectrum: 0.99409
-typography_spectrum: 0
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#212020'
     - '#f08222'
     - '#fcd207'
-  brandStrength: 0.9375
+  brandStrength: 0
   lightness: 0.016051774146035314
   saturation: 0.15774293267168105
   rhythmicContrast: 0.4399147927761078
